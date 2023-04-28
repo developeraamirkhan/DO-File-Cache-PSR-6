@@ -1,6 +1,6 @@
 <?php
 
-namespace DivineOmega\DOFileCachePSR6;
+namespace developeraamirkhan\DOFileCachePSR6;
 
 use Psr\Cache\InvalidArgumentException;
 use Exception;
